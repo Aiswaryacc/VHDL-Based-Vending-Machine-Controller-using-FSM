@@ -123,7 +123,7 @@ Ensure you have the following software installed:
 The simulation generates comprehensive waveform data showing all state transitions, payment calculations, and control signal activations. Below is a representative waveform capture during a complete transaction cycle:
 
 <div align="center">
-  <img src="IMG.jpeg" width="850"/>
+  <img src="IMG.pdf" width="850"/>
   <p><em>Waveform simulation showing complete transaction sequence with state transitions and control signals</em></p>
 </div>
 
@@ -134,7 +134,7 @@ The simulation generates comprehensive waveform data showing all state transitio
 The VHDL implementation follows industry best practices with clear module separation, descriptive signal naming, and comprehensive documentation. Key design components are organized for maximum readability and maintainability:
 
 <div align="center">
-  <img src="IMG.pdf" width="850"/>
+  <img src="CODE.jpeg" width="850"/>
   <p><em>Core VHDL implementation showcasing FSM architecture and state machine logic</em></p>
 </div>
 
