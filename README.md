@@ -123,7 +123,7 @@ Ensure you have the following software installed:
 The simulation generates comprehensive waveform data showing all state transitions, payment calculations, and control signal activations. Below is a representative waveform capture during a complete transaction cycle:
 
 <div align="center">
-  <img src="IMG.jpg" width="850"/>
+  <img src="IMG.jpeg" width="850"/>
   <p><em>Waveform simulation showing complete transaction sequence with state transitions and control signals</em></p>
 </div>
 
@@ -134,7 +134,7 @@ The simulation generates comprehensive waveform data showing all state transitio
 The VHDL implementation follows industry best practices with clear module separation, descriptive signal naming, and comprehensive documentation. Key design components are organized for maximum readability and maintainability:
 
 <div align="center">
-  <img src="CODE.jpg" width="850"/>
+  <img src="IMG.pdf" width="850"/>
   <p><em>Core VHDL implementation showcasing FSM architecture and state machine logic</em></p>
 </div>
 
@@ -145,7 +145,7 @@ The VHDL implementation follows industry best practices with clear module separa
 The complete state machine flow is visualized below, illustrating the decision points and transitions governing vending machine operation:
 
 <div align="center">
-  <img src="FLOW.jpg" width="850"/>
+  <img src="FLOW.jpeg" width="850"/>
   <p><em>Finite state machine flow diagram with all operational states and transition conditions</em></p>
 </div>
 
