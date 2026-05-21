@@ -123,7 +123,7 @@ Ensure you have the following software installed:
 The simulation generates comprehensive waveform data showing all state transitions, payment calculations, and control signal activations. Below is a representative waveform capture during a complete transaction cycle:
 
 <div align="center">
-  <img src="IMG.pdf" width="850"/>
+  <img src="WAVE.jpg" width="850"/>
   <p><em>Waveform simulation showing complete transaction sequence with state transitions and control signals</em></p>
 </div>
 
